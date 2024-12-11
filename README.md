@@ -54,7 +54,7 @@
 
 ## 📫 Bana Ulaşın:
 - **E-posta:** [sukrannurhanyildiz@gmail.com](mailto:sukrannurhanyildiz@gmail.com)
-- **LinkedIn:** [Şükran Yıldız](https://www.linkedin.com/in/sukranyildiz)
+- **LinkedIn:** [Şükran Yıldız](https://www.linkedin.com/in/sukran-yildiz/)
 - **GitHub:** [sukranyildiz](https://github.com/sukranyildiz)
 
 ---
