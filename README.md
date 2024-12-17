@@ -31,25 +31,29 @@
 
 ## 📂 Projelerim:
 ### 🔢 **SQL ve Veri Analitiği**
-- [SQL ile Veri Çekme ve Analiz](https://github.com/sukranyildiz/sql-data-analysis)
+- [SQL ile Veri Çekme ve Analiz]
   - SQL sorguları ile veri tabanlarından veri çekme.
   - Çekilen veriler üzerinde analiz ve raporlama.
 
 ### 📊 **Power BI ile Görselleştirme**
-- [Finansal Verilerin Power BI ile Görselleştirilmesi](https://github.com/sukranyildiz/powerbi-financial-visualization)
+- [Finansal Verilerin Power BI ile Görselleştirilmesi]
   - Power BI kullanarak finansal verilerin görselleştirilmesi.
   - Dinamik raporlar ve panolar oluşturma.
 
 ### 🔢 **Veri Analitiği ve Görselleştirme**
-- [Veri Görselleştirme Uygulaması](https://github.com/sukranyildiz/data-visualization)
+- [Veri Görselleştirme Uygulaması]
   - Python kullanarak veri görselleştirme pratikleri.
   - Matplotlib ve Seaborn ile grafikler oluşturma.
 
 ### 💡 **Rebate Hesaplama Projesi**
-- [Rebate Analizi ve Hesaplama](https://github.com/sukranyildiz/rebate-calculation)
+- [Rebate Analizi ve Hesaplama]
   - Python kullanarak finansal rebate hesaplama üzerine bir çözüm geliştirme.
   - Meta5 ve SQL üzerinden veri çekerek analiz gerçekleştirme.
-
+  - 
+### 📊 **Swing Trading Otomasyon Sistemi**
+- [Swing Trade Otomasyonu](https://github.com/sukranyildiz/metatrader5_swingtrade)
+-Python ve MetaTrader 5 API kullanarak swing trading stratejisi uygulayan bir sistemdir. Alım ve satım sinyalleri, MACD ve RSI teknik göstergelerine dayalı olarak tespit edilir.
+Grafikler üzerinde alım/satım noktaları görselleştirilerek karar destek sistemi oluşturulmuştur.
 ---
 
 ## 📫 Bana Ulaşın:
