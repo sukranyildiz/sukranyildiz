@@ -31,12 +31,12 @@
 
 ## 📂 Projelerim:
 ### 🔢 **Python ve Veri Bilimi Pratikleri**
-- [SQL ile Veri Çekme ve Analiz]
+- SQL ile Veri Çekme ve Analiz
   - SQL sorguları ile veri tabanlarından veri çekme.
   - Çekilen veriler üzerinde analiz ve raporlama.
 
 ### 📊 **Power BI ile Görselleştirme**
-- [Finansal Verilerin Power BI ile Görselleştirilmesi]
+- Finansal Verilerin Power BI ile Görselleştirilmesi
   - Power BI kullanarak finansal verilerin görselleştirilmesi.
   - Dinamik raporlar ve panolar oluşturma.
 
@@ -46,7 +46,7 @@
   - Matplotlib ve Seaborn ile grafikler oluşturma.
 
 ### 💡 **Rebate Hesaplama Projesi**
-- [Rebate Analizi ve Hesaplama]
+- Rebate Analizi ve Hesaplama
   - Python kullanarak finansal rebate hesaplama üzerine bir çözüm geliştirme.
   - Meta5 ve SQL üzerinden veri çekerek analiz gerçekleştirme.
   - 
