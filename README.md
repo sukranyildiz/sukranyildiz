@@ -31,12 +31,12 @@
 
 ## 📂 Projelerim:
 
-### 🔢 **Veri Analitiği ve Görselleştirme**
+### 🖼️ **Veri Analitiği ve Görselleştirme**
 - [Veri Görselleştirme Uygulaması](https://github.com/sukranyildiz/Python-Veri-Bilim-Ogrenme)
   - Python kullanarak veri görselleştirme pratikleri.
   - Matplotlib ve Seaborn ile grafikler oluşturma.
  
-### 🔢 **MetaTrader 5 Symbols Details**
+### 📈  **MetaTrader 5 Symbols Details**
 - [Trader Symbol Analiz](https://github.com/sukranyildiz/metatrader5_symboldetail)
   - MetaTrader 5 platformundan sembol bilgilerini (spread, tick size, fiyatlar vb.) çekebilirsiniz.
 
