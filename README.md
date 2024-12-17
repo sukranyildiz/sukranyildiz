@@ -42,7 +42,7 @@
 
 ### 📊 **Swing Trading Otomasyon Sistemi**
 - [Swing Trade Otomasyonu](https://github.com/sukranyildiz/metatrader5_swingtrade)
-  - Python ve MetaTrader 5 API kullanarak swing trading stratejisi uygulayan bir sistemdir. Alım ve satım sinyalleri, MACD ve RSI teknik göstergelerine dayalı olarak tespit edilir.
+  - Python ve MetaTrader 5  kullanarak swing trading stratejisi uygulayan bir sistemdir. Alım ve satım sinyalleri, MACD ve RSI teknik göstergelerine dayalı olarak tespit edilir.
 Grafikler üzerinde alım/satım noktaları görselleştirilerek karar destek sistemi oluşturulmuştur.
 
 ### 🔢 **Python ve Veri Bilimi Pratikleri**
