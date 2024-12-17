@@ -30,7 +30,7 @@
 ---
 
 ## 📂 Projelerim:
-### 🔢 **SQL ve Veri Analitiği**
+### 🔢 **Python ve Veri Bilimi Pratikleri**
 - [SQL ile Veri Çekme ve Analiz]
   - SQL sorguları ile veri tabanlarından veri çekme.
   - Çekilen veriler üzerinde analiz ve raporlama.
