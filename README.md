@@ -41,7 +41,7 @@
   - Dinamik raporlar ve panolar oluşturma.
 
 ### 🔢 **Veri Analitiği ve Görselleştirme**
-- [Veri Görselleştirme Uygulaması]
+- [Veri Görselleştirme Uygulaması](https://github.com/sukranyildiz/Python-Veri-Bilim-Ogrenme)
   - Python kullanarak veri görselleştirme pratikleri.
   - Matplotlib ve Seaborn ile grafikler oluşturma.
 
