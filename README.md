@@ -15,7 +15,7 @@
   - **Veri Bilimi ve Finansal Analitik:** SQL ve Meta5 kullanarak veri çekme ve analiz, Power BI ile görselleştirme, finansal raporlama, rebate hesaplama
 
 - 🌱 **Şu Anda Öğrendiklerim:**
-  - Derin öğrenme araçları (TensorFlow, Keras)
+  - Derin öğrenme araçları 
   - Veri görselleştirme ve analitik modelleme
 
 ---
