@@ -1,13 +1,9 @@
 # Merhaba, Ben Şükran Yıldız! 👋
 
-🎓 **Marmara Üniversitesi İstatistik Bölümü** mezunuyum. Veri analitiği, finansal modelleme ve veri bilimi konularında uzmanlaşarak projeler geliştiriyorum. Şu anda **PQS'de Finans Analisti** olarak çalışıyorum ve finansal analizler üzerine yoğunlaşıyorum.
+🎓 **Marmara Üniversitesi İstatistik Bölümü** mezunuyum. Veri analitiği, finansal modelleme ve veri bilimi konularında uzmanlaşarak projeler geliştiriyorum.
 
 ---
 
-## 🌟 Hakkımda:
-- 📊 **İş Deneyimi:**
-  - **PQS - Finans Analisti:** Finansal tabloların analizi ve optimize edilmesi, rebate hesaplamaları ve veri analitiği üzerine çalışıyorum.
-  - **Domino's - Product Owner:** Coffy ve HomeChef projelerinde dijital uygulama geliştirme ve proje yönetimi görevlerini üstlendim.
 
 - 💻 **Teknik Becerilerim:**
   - **Programlama Dilleri:** Python (NumPy, Pandas, Matplotlib, Seaborn), R, SQL
